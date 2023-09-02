@@ -1,2 +1,3 @@
-# gloriaPeak
+# GloriaPeak
+
 A remote communication platform
